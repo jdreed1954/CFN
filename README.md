@@ -18,4 +18,5 @@ There may be remanent resources remaining in your account after your stack is de
 3. **Additional Resources** Please watch this space.  If additional resources are found to require retaining on a stack delete, they will be added to this list.  The user of these templates is responsible for the charges incurred on his or her account.
 
 Jim Reed
+
 August 9, 2018
